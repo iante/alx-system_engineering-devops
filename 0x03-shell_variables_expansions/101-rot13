@@ -1,2 +1,2 @@
 #!/bin/bash
-rpub "Rirelbar vf n cebcbarag bs fgebat rapelcgvba.
+echo 'Everyone is a proponent of strong encryption.' | tr 'A-Za-z' 'N-ZA-Mn-za-m'
